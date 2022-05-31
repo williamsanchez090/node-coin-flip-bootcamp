@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-image: url(//images/flip.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+}
+h1,
+h2,
+form,
+button,
+div,
+h3 {
+  align-self: center;
+}
